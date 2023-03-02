@@ -21,3 +21,9 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# Ignore images
+.gif
+.png
+.jpeg
+.jpj
