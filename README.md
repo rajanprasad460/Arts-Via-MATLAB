@@ -4,6 +4,11 @@ Generate graphical arts via MATLAB
 
 Run <b> Rev_Rectang.m </b> file to generate the rectangle based art. 
 <!-- blank line -->
+
+----
+# A. Animation Sample
+![IMgae](/Combined_Art.gif)
+
 ----
 # 1. Sample Image 1
 ![IMgae](/Art1.jpg)
@@ -13,4 +18,5 @@ Run <b> Rev_Rectang.m </b> file to generate the rectangle based art.
 ----
 # 3. Sample Image 3
 ![IMgae](/Art3.jpg)
+
 
