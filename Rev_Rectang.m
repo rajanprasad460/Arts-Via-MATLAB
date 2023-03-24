@@ -3,8 +3,8 @@ clear;
 close all
 
 % Save animation as .gif file
-% save_animate = 1;
-save_animate = 0;
+save_animate = 1;
+% save_animate = 0;
 % Length of square
 
 a = 1;
@@ -22,8 +22,8 @@ o1 = [0 0];
 count = 1;
 figure
 hold on;
-axis([-a a -a a]) % required only when all 4 quadrants are selected for plotting
-for k = 1:4 % for each quadrants
+% axis([-a a -a a]) % required only when all 4 quadrants are selected for plotting
+for k = 1%:4 % for each quadrants
     p1 = o1;
     if k ==2||k==3
         p2 = [-a 0];
